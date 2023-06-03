@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\HP\Desktop\TestGraph\Source.cpp(62,38): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\HP\Desktop\TestGraph\Source.cpp(67,45): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\TestGraph\Source.cpp(68,45): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  TestGraph.vcxproj -> C:\Users\HP\Desktop\TestGraph\x64\Debug\TestGraph.exe
